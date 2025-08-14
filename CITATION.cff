@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Sengar"
+    given-names: "Devendra"
+title: "Drug Prescription ML"
+version: "0.1.0"
+date-released: "2025-08-14"
+repository-code: "https://github.com/devndra343/drug-prescription-ml"
